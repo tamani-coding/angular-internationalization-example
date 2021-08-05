@@ -1,0 +1,33 @@
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.language-picker-area {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.picker-label {
+  margin-right: 20px;
+}
+
+.info {
+  border-color: #5baef1;
+  background: #5baef1;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.info:hover {
+  border-color: #2196F3;
+  background: #2196F3;
+  color: white;
+}
