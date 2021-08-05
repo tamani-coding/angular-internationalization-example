@@ -1,6 +1,9 @@
 {
   "choose_language": "Sprache wählen",
   "info": "Informationen anzeigen",
+  "language.english": "Englisch",
+  "language.french": "Französisch",
+  "language.german": "Deutsch",
   "title": "Beeindruckende Super APP!",
   "welcome_text": "Willkommen zur Super APP!"
 }

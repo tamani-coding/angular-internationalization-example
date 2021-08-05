@@ -1,6 +1,9 @@
 {
   "choose_language": "Choose language",
   "info": "Show Info",
+  "language.english": "English",
+  "language.french": "French",
+  "language.german": "German",
   "title": "Awesome super APP!",
   "welcome_text": "Welcome to the super APP!"
 }

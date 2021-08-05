@@ -16,6 +16,10 @@
   margin-right: 20px;
 }
 
+.language-picker {
+  width: 100px;
+}
+
 .info {
   border-color: #5baef1;
   background: #5baef1;
