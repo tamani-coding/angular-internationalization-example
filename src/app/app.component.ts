@@ -13,6 +13,6 @@ export class AppComponent {
   }
 
   public selectLanguage(event: any) {
-    this.translateService.setDefaultLang(event.target.value);
+    this.translateService.use(event.target.value);
   }
 }
