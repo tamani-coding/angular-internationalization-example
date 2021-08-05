@@ -1,5 +1,10 @@
 # angular-phrase-example
 
-## phrase API
+## ngx-translate
+https://github.com/ngx-translate/core
 
+## phrase
+https://app.phrase.com/
+
+## phrase API
 https://developers.phrase.com/api/

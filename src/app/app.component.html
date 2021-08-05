@@ -1,19 +1,19 @@
 <div class="language-picker-area">
-  <div class="picker-label" >Choose language</div>
-  <select>
-    <option>EN</option>
-    <option>FR</option>
-    <option>DE</option>
+  <div class="picker-label" >{{ 'choose_language' | translate }}</div>
+  <select (change)="selectLanguage($event)">
+    <option>en-US</option>
+    <option>fr-FR</option>
+    <option>de-DE</option>
   </select>
 </div>
 <div class="content">
   <h1>
-    The Super App!
+    {{ 'title' | translate }}
   </h1>
   <h3>
-    Welcome to this awsome super app!
+    {{ 'welcome_text' | translate }}
   </h3>
   <button class="info">
-    Info
+    {{ 'info' | translate }}
   </button>
 </div>
